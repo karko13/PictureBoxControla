@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\bin\Debug\PictureBoxKontrola.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\bin\Debug\PictureBoxKontrola.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\bin\Debug\PictureBoxKontrola.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.pdb
